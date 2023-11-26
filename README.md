@@ -5,7 +5,7 @@ I'm Kalilou, a passionate web developer specialized in React and .NET, coding da
 
 ## 🌐 Skills
 - React (⚛️) for interactive interfaces
-- .NET Framework (🔧) for backend applications
+- .NET Framework (🔧) for back-end applications
 - Proficient in Node.js (📦) and Git (📝) for advanced development
 
 ## 🛠️ Experience
