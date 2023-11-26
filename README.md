@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hello, I'm Kalilou! 👋
 
-<!--
-**kalilou-marong/kalilou-marong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm Kalilou, a passionate web developer specialized in React and .NET, coding daily and currently seeking an internship to enhance my skills and contribute meaningfully. 💻🚀
 
-Here are some ideas to get you started:
+## 🌐 Skills
+- React (⚛️) for interactive interfaces
+- .NET Framework (🔧) for backend applications
+- Proficient in Node.js (📦) and Git (📝) for advanced development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Experience
+- Professional title: Web & Mobile Developer #Afpa 
+- Certification: FullStack .NET Developer #dotnet
+
+## 🔧 Professional Experience
+### MyPlayground
+- Developed new features for a toy-selling application using the .NET framework, strengthening my development skills.
+
+### Insy2s
+- Contributed to wireframing (Figma) and UI/UX development (React & PHP), enhancing user experiences.
+
+## 👋 More About Me
+- Team player and collaborative
+- Excellent communication skills
+- Quick learner
+- Adaptability and flexibility
+- Analytical mindset
+- Creativity and innovation
+- Motivated and determined
+
+## 📊 Creative Resolution
+Always keeping an eye on the latest trends (🌱) to provide innovative solutions (💡) to complex problems.
+
+## 📬 Contact
+- Email: marong.kalilou@gmail.com
+
+## 🙏 Thank you for your interest and the opportunity to connect!
