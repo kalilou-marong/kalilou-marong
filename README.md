@@ -9,8 +9,8 @@ I'm Kalilou, a passionate web developer specialized in React and .NET, coding da
 - Proficient in Node.js (📦) and Git (📝) for advanced development
 
 ## 🛠️ Experience
-- Professional title: Web & Mobile Developer #Afpa 
-- Certification: FullStack .NET Developer #dotnet
+- Professional title: Web & Mobile Developer 
+- Certification: FullStack .NET Developer 
 
 ## 🔧 Professional Experience
 ### MyPlayground
