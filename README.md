@@ -33,8 +33,8 @@ Always keeping an eye on the latest trends (🌱) to provide innovative solution
 
 ## 📬 Contact
 - Email: marong.kalilou@gmail.com
-- [![My Linkedin](![image]([https://github.com/kalilou-marong/kalilou-marong/assets/95428439/fdaaad61-e18f-4504-9b0a-56424ce9bc17](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F256%2F174%2F174857.png&tbnid=KSwAtVH93tSnsM&vet=12ahUKEwj8x_u74IqDAxV1AfsDHXdRAtkQMygAegQIARBr..i&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffr%2Ficone-gratuite%2Flinkedin_174857&docid=s6QZGhw1fBHLmM&w=256&h=256&q=icon%20linkedin&ved=2ahUKEwj8x_u74IqDAxV1AfsDHXdRAtkQMygAegQIARBr)https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F256%2F174%2F174857.png&tbnid=KSwAtVH93tSnsM&vet=12ahUKEwj8x_u74IqDAxV1AfsDHXdRAtkQMygAegQIARBr..i&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffr%2Ficone-gratuite%2Flinkedin_174857&docid=s6QZGhw1fBHLmM&w=256&h=256&q=icon%20linkedin&ved=2ahUKEwj8x_u74IqDAxV1AfsDHXdRAtkQMygAegQIARBr)
-)](https://www.linkedin.com/in/kalilou-marong/)
+- [![My Linkedin](![image]
+  (https://www.linkedin.com/in/kalilou-marong/)
 
 
 ## 🙏 Thank you for your interest and the opportunity to connect!
