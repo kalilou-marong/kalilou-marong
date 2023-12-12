@@ -33,7 +33,7 @@ Always keeping an eye on the latest trends (🌱) to provide innovative solution
 
 ## 📬 Contact
 - Email: marong.kalilou@gmail.com
-- [![My Linkedin](![image]
+- [[My Linkedin]([image]
   (https://www.linkedin.com/in/kalilou-marong/)
 
 
