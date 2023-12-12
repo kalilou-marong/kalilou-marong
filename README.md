@@ -32,8 +32,9 @@ I'm Kalilou, a passionate web developer specialized in React and .NET, coding da
 Always keeping an eye on the latest trends (🌱) to provide innovative solutions (💡) to complex problems.
 
 ## 📬 Contact
-- [My Email](marong.kalilou@gmail.com)
+- My Email: marong.kalilou@gmail.com
 - [My Linkedin](https://www.linkedin.com/in/kalilou-marong/)
+- [My Portfolio](https://kalilou-marong.netlify.app/)
 
 
 ## 🙏 Thank you for your interest and the opportunity to connect!
