@@ -37,4 +37,4 @@ Always keeping an eye on the latest trends (🌱) to provide innovative solution
 - [My Portfolio](https://kalilou-marong.netlify.app/)
 
 
-## 🙏 Thank you for your interest and the opportunity to connect!
+## 🙏 Thank you for your interest and the opportunities to connect !
