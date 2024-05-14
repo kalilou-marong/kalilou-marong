@@ -8,11 +8,11 @@ I'm Kalilou, a passionate web developer specialized in React and .NET, coding da
 - .NET Framework (🔧) for back-end applications
 - Proficient in Node.js (📦) and Git (📝) for advanced development
 
-## 🛠️ Experience
+## 🛠️ Experiences
 - Professional title: Web & Mobile Developer 
 - Certification: FullStack .NET Developer 
 
-## 🔧 Professional Experience
+## 🔧 Professional Experiences
 ### MyPlayground
 - Developed new features for a toy-selling application using the .NET framework, strengthening my development skills.
 
